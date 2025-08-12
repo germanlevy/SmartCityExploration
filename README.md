@@ -1,2 +1,0 @@
-# SmartCityExploration
-Challenge for Uala
